@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full stack projects**
 
-- 👨‍💻 All of my projects are available at [anilkumarmoota.online](anilkumarmoota.online)
+- 👨‍💻 All of my projects are available at [anilkumarmoota.online](https://anilkumarmoota.vercel.app)
 
 - 💬 Ask me about **React, React Native, Node js, MongoDB and Firebase**
 
